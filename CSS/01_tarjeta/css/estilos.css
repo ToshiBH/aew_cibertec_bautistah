@@ -1,0 +1,13 @@
+
+h1 {
+    color:rgb(138, 102, 177);
+    margin: 10;
+}
+
+p { color:brown
+}
+
+.mi-descripcion p{
+    color:blue;
+    text-align: center;
+}
